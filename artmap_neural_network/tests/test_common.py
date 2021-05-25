@@ -2,9 +2,9 @@ import pytest
 
 from sklearn.utils.estimator_checks import check_estimator
 
-from skltemplate import TemplateEstimator
-from skltemplate import TemplateClassifier
-from skltemplate import TemplateTransformer
+from artmap_neural_network import TemplateEstimator
+from artmap_neural_network import TemplateClassifier
+from artmap_neural_network import TemplateTransformer
 
 
 @pytest.mark.parametrize(

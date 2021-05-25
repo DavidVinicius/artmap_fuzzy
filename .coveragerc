@@ -2,8 +2,8 @@
 
 [run]
 branch = True
-source = skltemplate
-include = */skltemplate/*
+source = artmap_neural_network
+include = */artmap_neural_network/*
 omit =
     */setup.py
 

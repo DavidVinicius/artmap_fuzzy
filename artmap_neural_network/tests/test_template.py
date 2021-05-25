@@ -5,9 +5,9 @@ from sklearn.datasets import load_iris
 from sklearn.utils.testing import assert_array_equal
 from sklearn.utils.testing import assert_allclose
 
-from skltemplate import TemplateEstimator
-from skltemplate import TemplateTransformer
-from skltemplate import TemplateClassifier
+from artmap_neural_network import TemplateEstimator
+from artmap_neural_network import TemplateTransformer
+from artmap_neural_network import TemplateClassifier
 
 
 @pytest.fixture
